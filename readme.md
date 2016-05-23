@@ -1,5 +1,5 @@
 Hello there this is a test repo
 
-This is something i added!
+This is something John added!
 
-This is another thing i added...check it.
+This is another thing John added...check it.
